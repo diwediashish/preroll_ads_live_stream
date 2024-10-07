@@ -1,5 +1,4 @@
 "use client"
-import Image from "next/image";
 import LiveVideoPlayerWithPreRollAndDAI from "../components/player"
 
 export default function Home() {
